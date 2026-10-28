@@ -1,0 +1,9 @@
+# downloaded papers and reference material (third-party / copyrighted)
+Core_101_Download/*/PDFs/
+HowToCarryOutProperReivew/
+# KFUPM brand guideline
+Review Started/Guideline_v3.pdf
+# backups, lock files, OS files
+*.bak-*
+~$*
+.DS_Store
